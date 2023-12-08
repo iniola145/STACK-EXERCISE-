@@ -1,3 +1,4 @@
+#4.Write a program that uses a stack to print the prime factors of a positive integer in descending order.
 def get_prime_factors(num):
     factors = []
     divisor = 2
