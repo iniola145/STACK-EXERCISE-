@@ -1,3 +1,4 @@
+#6.Write a program that uses a stack to convert a decimal number into an equivalent binary number.
 class Stack:
     def __init__(self):
         self.items = []
